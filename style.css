@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    background-color: green;
+    color:wheat;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 5px;   
+    border: solid 5px black;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+    padding-bottom: 10px;
+    transition: all 5s;
+}
+a:hover{
+    border-bottom: solid blue 10px;
+}
+a:visited{
+    color:red;
+}
+img{
+    height: 50%;
+    width: 50%;
+}
